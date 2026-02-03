@@ -1,0 +1,4 @@
+This is File 2 - Created in feature-branch.
+
+Content from the feature branch.
+This file was added in a separate branch.
